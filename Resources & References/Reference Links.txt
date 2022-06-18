@@ -1,0 +1,20 @@
+Note: This list will be updated based on new modifications made in the work.
+
+
+1.  https://github.com/abeerbadawi/COVID-ChestXray15k-Dataset-Transfer-learning
+2.  https://github.com/0xpranjal/Pneumonia-Detection-using-Deep-Learning
+3.  https://keras.io/api/applications/
+4.  https://www.kaggle.com/code/raulcsimpetru/vgg16-binary-classification/notebook
+5.  https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/#1590858128006-9e640421-6711
+6.  https://github.com/BIMCV-CSUSP/BIMCV-COVID-19
+7.  https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn
+8.  https://www.kaggle.com/code/pushkalpandey3/pneumonia-binary-classification
+9.  https://www.kaggle.com/code/moathmohamed/cnn-covid-19-x-ray
+10. https://deeplizard.com/learn/video/km7pxKy4UHU
+
+Resources
+
+1. https://www.projectpro.io/recipes/generate-classification-report-and-confusion-matrix-in-python
+2. https://stackoverflow.com/questions/10062954/valueerror-the-truth-value-of-an-array-with-more-than-one-element-is-ambiguous
+3. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+4. https://www.tensorflow.org/api_docs/python/tf/keras/Model#fit

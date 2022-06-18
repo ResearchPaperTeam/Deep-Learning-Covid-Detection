@@ -1,0 +1,35 @@
+- Transfer Learning
+- Keras models
+- Create Environment
+- Image dataset of covid from kaggle
+- Disease is predicted in 2 ways: 
+	1. Classification ( Whether Disease exists or not)
+	2. Classify and Localise ( Whether it exists, and if it does, where)
+- we are classifying using sigmoid function.
+- binary classifier
+- different training and testing algorithm
+- run different models on dataset and then build their confusion matrix
+- from 2000, take 1500 images for training, 500 for testing
+- in data both covid and non covid images should be there
+
+Paper
+- Experimental Paper (Easier)
+- Review Article /Survey Article/ Literature Review
+
+Paper's Scope - 
+- Conference Paper
+- Journal Paper (Higher Standard and more scope)
+	- Most important factor in journal paper:
+
+	INDEXING
+	- Most Popular: SCOPUS
+	- Toughest : SCI (PHD Level)
+	- ESCI - Emerging source citation index, also known as Web of Science (WOS) - Similar to SCOPUS
+- turnitin: plagiarization checker
+
+- Demographic Concept
+- golden standard terminolgy
+	- Taking doctor tested data, kept for validation from doctors.
+
+
+
