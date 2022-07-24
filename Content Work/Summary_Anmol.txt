@@ -1,0 +1,99 @@
+https://www.gminsights.com/industry-analysis/medical-x-ray-market
+(Link talks about the market size of XRays and its increasing trends)
+
+- Medical X-ray Market size valued at USD 13 billion in 2020 and is expected to witness 5.7% CAGR from 2021 to 2027
+
+- Rising usage of direct radiography will surge the medical X-ray market demand
+
+ The direct radiography (DR) segment held around 42% market share in 2020. DR technology helps in improving image
+ resolution as well as contrast that further spreads the dynamic range of image by adjusting the window position along
+ with width. DR provides better vision for clinical application for improved and advanced patient images. Furthermore,
+ these X-ray films have been extensively utilized in orthopaedic and dental procedures for diagnosing the patients that
+ secure the market expansion.
+
+
+ 
+https://www.theguardian.com/society/2020/jul/14/english-nhs-hospitals-in-urgent-need-of-more-scanners-and-staff-to-deal-with-backlog
+(Link talks about need of staffs to operate image diagnostics machines - highlighting importance of Automation in this industry)
+contains outdated data of may-june 2020, not useful, can refer for vocabulary: 
+
+
+- Hospital trusts across England urgently need more equipment, staff and space to deal with a huge backlog of scans
+ for cancer and other conditions, as more than 600,000 people await CT, MRI and other scans amid the coronavirus crisis.
+
+- The challenge is one of creating safe patient access to imaging facilities in a manner that respects the social
+ distancing and other infection prevention rules set out nationally… We have for some time been utilising private
+ sector hospitals and are establishing other additional resources, including mobile facilities, to increase volumes.
+
+- There also need to be more staff to run them, she said. “So not just radiologists but radiographers, it is a
+ whole-team approach that we need to get right.” She said it took time to train staff and there was inadequate funding.
+
+
+
+https://statistics.blf.org.uk/pneumonia
+(Link on Pneumonia statistics in UK)
+Data talks about only the UK region, focusing mostly from 2004-2012 period, redundant for covid times and around the world.
+
+- Pneumonia is an inflammation of one or both lungs, usually caused by an infection. It causes the alveoli (air sacs)
+ inside the lungs to fill with fluid, making it harder for them to work properly. The body sends white blood cells to
+ fight the infection, and while this helps kill the germs it can also make it harder for the lungs to pass oxygen into
+ the bloodstream.
+
+---------------------------------------------------------------------------------------------------------------------------
+GIRFT Programme National Specialty Report on Radiology. - November 2020
+(GIRFT is delivered in partnership with the Royal National Orthopaedic Hospital NHS Trust, NHS England and NHS Improvement)
+(Report talks about the increasing demand of imaging machines and centre's quality and how to tackle it with existing
+ numbers in COVID-19)
+
+
+Dr Katharine Halliday
+GIRFT Clinical Lead for Radiology.
+
+"The demand for imaging services has never been higher – and it is only going to grow"
+
+"There is also an urgent need for more physical space in many radiology services. Units are cramped into small areas, often at 
+the centre of the hospital. Patient dignity is often compromised, with inadequate waiting areas and a lack of privacy"
+
+"COVID-19 has drastically affected the way healthcare is delivered worldwide. Rather than 
+change our recommendations, the pandemic has made them even more pressing. Workforce and equipment shortages have 
+been thrown into stark relief and cramped departments are woefully inadequate for social distancing."
+
+
+
+ Over half of patients referred for MRI or 
+ultrasound wait more than 14 days for the test to take place
+
+ [* IMP *] The pandemic has brought the shortage of equipment to the fore. After scanning a COVID positive patient, a machine cannot 
+be used for several hours while the area is thoroughly cleaned. Throughput has been drastically reduced, which is particularly 
+concerning in trusts with only one scanner. 
+
+About Radiology
+	Radiology refers to the use of medical imaging to diagnose and treat injuries and diseases. It includes X-rays, ultrasound, 
+	magnetic resonance imaging (MRI), fluoroscopy, computed axial tomography (CT) and interventional procedures. 
+	The imaging and interventions provided are fundamental to the delivery of acute and elective clinical services across almost 
+	every speciality within primary, secondary and tertiary care. 
+
+
+Who are Radiologists?
+	Radiologists are qualified doctors who often do not conduct the imaging and operate the equipment, but are trained to 
+	interpret the images. They then produce a report about what the images show. These reports are used to inform the 
+	treatment options for the patient’s ongoing care and are an essential part of the overall health record. 
+
+
+Growth in demand 
+Advances in technology and changes in clinical practice have led to increases in demand for imaging across a wide range of 
+different specialties
+
+Artificial intelligence in radiology 
+There is a growing awareness of the potential of artificial intelligence (AI) to improve care, 
+accelerate diagnosis and free up staff time. Radiology is seen by many as one of the specialties where AI can have the 
+most impact, particularly through using AI for automated image interpretation.
+
+The Topol Review21 predicted that within a decade, around 50% of radiology reporting could be supported by AI. 
+
+We anticipate that AI will bring big changes to the processes and practice of radiology, hopefully improving efficiency 
+and supporting faster and more accurate image interpretation. 
+
+
+Glossary (refer for definitions):
+Pg 78-79
